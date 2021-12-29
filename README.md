@@ -7,7 +7,7 @@ There are decrements of 10 seconds for incorrect questions and no increment for 
 a combination of multiple-choice questions and interactive challenges. A timed code quiz that's made up of multiple-choice questions with the high scores saved in the local storage.
 This app will run in the browser and feature dynamically updated HTML and CSS powered with JavaScript code. 
 When the answers are correct and bell sound will trigger and then when there is an incorrect input there will be a negative sound. 
-The app will also produce a times up sound to let the user know when the time is up to input answers.
+The app will also produce a times up sound to let the user know when user input is no longer available due to time.
 
 ## Acceptance Criteria
 
